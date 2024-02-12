@@ -1,1 +1,4 @@
 Git Test1 
+This is from commit 1
+This is from commit 2
+This is from commit 3
